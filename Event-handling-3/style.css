@@ -1,0 +1,15 @@
+.my-element {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background-color: lightgray;
+}
+
+.my-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+  color: white;
+}
